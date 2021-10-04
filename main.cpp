@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
   cout << "owner : Diana Tureiko";
-  cout << "berwy";
+  cout << "Kristina";
   
 }
